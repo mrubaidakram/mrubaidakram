@@ -1,230 +1,171 @@
-[UBAID AKRAM](#top)
+<div align="center">
 
-[Leadership](#leadership) [Outcomes](#outcomes) [Stack](#stack) [Programs](#programs) [Experience](#experience)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A7C76,100:0E1A19&height=190&section=header&text=UBAID%20AKRAM&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Ubaid Akram" width="100%" />
 
-Lead AI Engineer · Technical Lead
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=0A7C76&center=true&vCenter=true&width=720&height=40&lines=Lead+AI+Engineer+%C2%B7+Technical+Lead;Production+Generative+AI;Retrieval+Systems+and+RAG;Applied+Machine+Learning" alt="Lead AI Engineer, Technical Lead. Production Generative AI, Retrieval Systems, Applied Machine Learning" />
 
-# UBAIDAKRAM
+**I lead engineering teams from ambiguous business problems to reliable AI products.**
 
-I lead engineering teams from ambiguous business problems to reliable AI products.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ubaidakram)
+[![Email](https://img.shields.io/badge/Email-mrubaidakram@gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrubaidakram@gmail.com)
+![Location](https://img.shields.io/badge/Islamabad-Pakistan-0F766E?style=for-the-badge)
 
-Production Generative AI · Retrieval Systems · Applied Machine Learning
+![Software engineering](https://img.shields.io/badge/8_years-software_engineering-0A7C76?style=flat-square)
+![ML and GenAI](https://img.shields.io/badge/6%2B_years-ML_and_Generative_AI-0A7C76?style=flat-square)
 
-[LinkedIn ↗](https://linkedin.com/in/ubaidakram) mrubaidakram@gmail.com
+</div>
 
-Islamabad, Pakistan
+---
 
-**8**years in software engineering
-
-**6+**years in ML and Generative AI
-
-Illustrative embedding space. Move the pointer to run a query and see the six nearest neighbours.
-
-Engineering leadership
-
-## From business goal to production
+## 🧭 Engineering leadership
 
 I lead AI delivery end to end: align teams on the business outcome, shape the system architecture, guide implementation, establish evaluation, and help teams run what they ship. My experience spans enterprise search and RAG, agentic workflows, NLP, predictive modeling, and cloud deployment.
 
-My bar for production is practical. I mentor engineers and help cross-functional teams turn uncertain requirements into dependable delivery plans.
+My bar for production is practical: **grounded outputs, measurable quality, controlled tool use, understood latency and cost, observable behavior, and clear human review paths.** I mentor engineers and help cross-functional teams turn uncertain requirements into dependable delivery plans.
 
-- Grounded outputs
-- Measurable quality
-- Controlled tool use
-- Understood latency and cost
-- Observable behavior
-- Clear human review paths
+### From business goal to production
 
-### The path I run
+```mermaid
+flowchart LR
+    A["<b>Frame</b><br/>Define the outcome"] --> B["<b>Architect</b><br/>Select data, models<br/>and system boundaries"]
+    B --> C["<b>Build</b><br/>Deliver APIs, retrieval<br/>and workflows"]
+    C --> D["<b>Evaluate</b><br/>Measure quality,<br/>latency and cost"]
+    D --> E["<b>Operate</b><br/>Monitor, learn<br/>and improve"]
+    E -.->|feedback| A
+```
 
-01 · Frame
+## 📈 Outcomes delivered
 
-### Define the outcome
+<table>
+<tr>
+<td width="25%" align="center"><h3>~35%</h3>higher search relevance<br><sub>Enterprise search</sub></td>
+<td width="25%" align="center"><h3>~40%</h3>faster time to answer<br><sub>Enterprise search</sub></td>
+<td width="25%" align="center"><h3>~25%</h3>fewer duplicate leads<br><sub>Salesforce matching</sub></td>
+<td width="25%" align="center"><h3>~50%</h3>less video review time<br><sub>Video summarization</sub></td>
+</tr>
+</table>
 
-Agree what success means for the business before anything is built.
+Also contributed to a **~15% improvement in driving-behavior prediction accuracy** and an estimated **~5% profitability lift** through predictive modeling.
 
-02 · Architect
+<sub>Approximate, project-specific outcomes reported in my professional experience. These are not benchmarks for the local showcase projects.</sub>
 
-### Set the boundaries
+## 🛠️ Areas of strength
 
-Select data, models and system boundaries.
+**AI product architecture**<br>
+![LLM systems](https://img.shields.io/badge/LLM_systems-0A7C76?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0A7C76?style=flat-square)
+![Hybrid search](https://img.shields.io/badge/Hybrid_search-0A7C76?style=flat-square)
+![Agentic workflows](https://img.shields.io/badge/Agentic_workflows-0A7C76?style=flat-square)
+![Tool calling](https://img.shields.io/badge/Tool%2Ffunction_calling-0A7C76?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-0A7C76?style=flat-square)
 
-03 · Build
+**Retrieval & evaluation**<br>
+![Embeddings](https://img.shields.io/badge/Embeddings-134E4A?style=flat-square)
+![Semantic search](https://img.shields.io/badge/Semantic_search-134E4A?style=flat-square)
+![Enterprise search](https://img.shields.io/badge/Enterprise_search-134E4A?style=flat-square)
+![AI evaluation](https://img.shields.io/badge/AI_evaluation-134E4A?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-134E4A?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-134E4A?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-134E4A?style=flat-square&logo=postgresql&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-134E4A?style=flat-square)
 
-### Ship the system
+**Applied ML**<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=flat-square&logo=huggingface&logoColor=black)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-0A7C76?style=flat-square)
+![Predictive analytics](https://img.shields.io/badge/Predictive_analytics-0A7C76?style=flat-square)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-Deliver APIs, retrieval and workflows.
+**Backend & APIs**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-334155?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-334155?style=flat-square)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
-04 · Evaluate
+**Cloud & operations**<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-232F3E?style=flat-square)
+![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-334155?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-### Measure it
+**Data platforms**<br>
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Large-scale data processing](https://img.shields.io/badge/Large--scale_data_processing-334155?style=flat-square)
 
-Measure quality, latency and cost.
+**Technical leadership**<br>
+![Architecture direction](https://img.shields.io/badge/Architecture_direction-0F766E?style=flat-square)
+![Mentoring](https://img.shields.io/badge/Mentoring-0F766E?style=flat-square)
+![Cross-functional delivery](https://img.shields.io/badge/Cross--functional_delivery-0F766E?style=flat-square)
+![Stakeholder alignment](https://img.shields.io/badge/Stakeholder_alignment-0F766E?style=flat-square)
+![Engineering standards](https://img.shields.io/badge/Engineering_standards-0F766E?style=flat-square)
 
-05 · Operate
+## 🚀 Selected programs
 
-### Keep improving
-
-Monitor, learn and improve.
-
-Outcomes delivered
-
-## Numbers from shipped work
-
-**\~35%**
-
-### higher search relevance
-
-Enterprise search
-
-**\~40%**
-
-### faster time to answer
-
-Enterprise search
-
-**\~25%**
-
-### fewer duplicate leads
-
-Salesforce matching
-
-**\~50%**
-
-### less video review time
-
-Video summarization
-
-Also contributed to a **\~15% improvement in driving-behavior prediction accuracy** and an estimated **\~5% profitability lift** through predictive modeling.
-
-Approximate, project-specific outcomes reported in my professional experience. These are not benchmarks for the local showcase projects.
-
-Areas of strength
-
-## Search the stack
-
-Query
-
-### AI product architecture
-
-- LLM systems
-- RAG
-- Hybrid search
-- Agentic workflows
-- Tool/function calling
-- MCP
-
-### Retrieval & evaluation
-
-- Embeddings
-- Semantic search
-- Enterprise search
-- AI evaluation
-- Pinecone
-- FAISS
-- pgvector
-- Chroma
-
-### Applied ML
-
-- PyTorch
-- Transformers
-- LightGBM
-- NLP
-- Predictive analytics
-- PySpark
-
-### Backend & APIs
-
-- Python
-- SQL
-- FastAPI
-- REST APIs
-- Microservices
-- Salesforce
-
-### Cloud & operations
-
-- AWS
-- Bedrock
-- SageMaker
-- Docker
-- Kubernetes
-- CI/CD
-- MLflow
-
-### Data platforms
-
-- Kafka
-- Airflow
-- Large-scale data processing
-
-### Technical leadership
-
-- Architecture direction
-- Mentoring
-- Cross-functional delivery
-- Stakeholder alignment
-- Engineering standards
-
-Selected programs
-
-## Three things I led and shipped
-
-Retrieval
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### Enterprise search & RAG
-
 Led the design and rollout of enterprise search combining lexical retrieval, semantic search, and RAG. Focused the team on relevance, grounded responses, and production evaluation.
 
-Agents
+</td>
+<td width="33%" valign="top">
 
 ### Agentic workflow automation
-
 Engineered multi-step, tool-using workflows with LangChain and LangGraph. Deployed on AWS with Docker and Kubernetes, removing manual handoffs across three downstream teams.
 
-Machine learning
+</td>
+<td width="33%" valign="top">
 
 ### Applied machine learning
-
 Delivered transformer-based video summarization, Salesforce lead matching, and predictive models for real-time vehicle data. Partnered across product, data, and engineering to move models into real workflows.
 
-Experience
+</td>
+</tr>
+</table>
 
-## Eight years, drawn to scale
+## 💼 Experience
 
-20182020202220242026
+| Role | Organization | Dates |
+| --- | --- | --- |
+| **Lead AI Engineer / Technical Lead** | Arbisoft · Lahore, Pakistan | Jan 2023–Sep 2026 |
+| **Senior AI/ML Engineer / Team Lead** | Octaloop IT & NS · Lahore, Pakistan | Jan 2022–Dec 2022 |
+| **AI/ML Software Engineer** | DigiMark Developers · Lahore, Pakistan | Dec 2018–Dec 2021 |
 
-### Lead AI Engineer / Technical Lead
+Career timeline, drawn to scale:
 
-Arbisoft · Lahore, Pakistan
+```text
+              2018  2020  2022  2024  2026
+Arbisoft      ···············███████████·
+Octaloop      ············███············
+DigiMark      ···█████████···············
+```
 
-Jan 2023–Sep 2026
+## 🎓 Education
 
-### Senior AI/ML Engineer / Team Lead
+**M.S. Data Science** — Lahore University of Management Sciences<br>
+**B.S. Software Engineering** — National University of Computer and Emerging Sciences
 
-Octaloop IT & NS · Lahore, Pakistan
+## 📜 Certifications
 
-Jan 2022–Dec 2022
+- AWS Certified Machine Learning – Specialty — resume lists validity through March 2026
+- NVIDIA-Certified Professional: Generative AI LLMs — resume lists validity through January 2024
 
-### AI/ML Software Engineer
+---
 
-DigiMark Developers · Lahore, Pakistan
+<div align="center">
 
-Dec 2018–Dec 2021
+**Building practical AI. Growing strong engineering teams. Delivering measurable outcomes.**
 
-### Education
+[LinkedIn](https://linkedin.com/in/ubaidakram) &nbsp;·&nbsp; [Email](mailto:mrubaidakram@gmail.com)
 
-**M.S. Data Science**Lahore University of Management Sciences
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1A19,100:0A7C76&height=120&section=footer" alt="" width="100%" />
 
-**B.S. Software Engineering**National University of Computer and Emerging Sciences
-
-### Certifications
-
-**AWS Certified Machine Learning – Specialty**Resume lists validity through March 2026
-
-**NVIDIA-Certified Professional: Generative AI LLMs**Resume lists validity through January 2024
-
-Building practical AI.Growing strong engineering teams.Delivering measurable outcomes.
-
-[LinkedIn ↗](https://linkedin.com/in/ubaidakram) mrubaidakram@gmail.com
+</div>
